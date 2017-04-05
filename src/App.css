@@ -22,3 +22,14 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+.Message-Row {
+  clear: both;
+}
+
+.Message {
+  padding: 20px;
+  background: #ccc;
+  width: 200px;
+  float: left;
+}
